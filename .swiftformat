@@ -1,0 +1,97 @@
+--acronyms ID,URL,UUID
+--allman false
+--anonymousforeach convert
+--assetliterals visual-width
+--asynccapturing 
+--beforemarks @Environment,struct,typealias
+--binarygrouping 4,8
+--callsiteparen same-line
+--categorymark %c
+--classthreshold 0
+--closingparen same-line
+--closurevoid remove
+--commas always
+--complexattrs preserve
+--computedvarattrs preserve
+--condassignment always
+--conflictmarkers reject
+--dateformat system
+--decimalgrouping 3,6
+--doccomments before-declarations
+--elseposition same-line
+--emptybraces no-space
+--enumnamespaces structs-only
+--enumthreshold 0
+--exponentcase lowercase
+--exponentgrouping disabled
+--extensionacl on-extension
+--extensionlength 0
+--extensionmark "MARK: - %t + %c"
+--fractiongrouping disabled
+--fragment false
+--funcattributes preserve
+--generictypes 
+--groupedextension "MARK: %c"
+--guardelse same-line
+--header ignore
+--hexgrouping 4,8
+--hexliteralcase uppercase
+--ifdef indent
+--importgrouping length
+--indent 2
+--indentcase false
+--indentstrings false
+--initcodernil false
+--lifecycle 
+--lineaftermarks true
+--linebreaks lf
+--markcategories true
+--markextensions if-not-empty
+--marktypes if-not-empty
+--maxwidth none
+--modifierorder 
+--nevertrailing 
+--nilinit remove
+--noncomplexattrs 
+--nospaceoperators 
+--nowrapoperators 
+--octalgrouping 4,8
+--onelineforeach ignore
+--operatorfunc spaced
+--organizationmode type
+--organizetypes actor,class,enum,let,struct,var
+--patternlet hoist
+--ranges spaced
+--redundanttype infer-locals-only
+--self remove
+--selfrequired 
+--semicolons inline
+--shortoptionals except-properties
+--smarttabs enabled
+--someany true
+--storedvarattrs preserve
+--stripunusedargs closure-only
+--structthreshold 0
+--tabwidth 2
+--throwcapturing 
+--timezone system
+--trailingclosures 
+--trimwhitespace always
+--typeattributes preserve
+--typeblanklines remove
+--typedelimiter space-after
+--typemark "MARK: - %t"
+--voidtype void
+--wraparguments preserve
+--wrapcollections preserve
+--wrapconditions preserve
+--wrapeffects preserve
+--wrapenumcases always
+--wrapparameters default
+--wrapreturntype preserve
+--wrapternary default
+--wraptypealiases preserve
+--xcodeindentation enabled
+--yodaswap always
+--disable elseOnSameLine,redundantParens,redundantSelf,wrapMultilineStatementBraces
+--enable blankLinesBetweenImports,docComments,markTypes
